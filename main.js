@@ -209,4 +209,4 @@ for (var i = 0; i < arreglo.length; i++) {
 
 
 
-contarLetras(['jose', 'pablo', 'Mario']) //[4, 5, 5]
+//contarLetras(['jose', 'pablo', 'Mario']) //[4, 5, 5]
